@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10.041" height="16.091" viewBox="0 0 10.041 16.091">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Fill_6" data-name="Fill 6" class="cls-1" d="M3.434,8.046l6.19-5.618A1.421,1.421,0,1,0,7.613.421L.412,6.949A1.415,1.415,0,0,0,0,8.046a1.415,1.415,0,0,0,.409,1.1l7.2,6.527a1.421,1.421,0,1,0,2.012-2.006L3.434,8.046" transform="translate(10.041 16.091) rotate(180)"/>
+</svg>
